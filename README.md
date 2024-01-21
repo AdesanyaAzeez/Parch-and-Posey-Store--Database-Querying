@@ -51,11 +51,11 @@ The data tables from the sql script were downloaded as .csv files and loaded int
 - Filtering out rows with zero '0' value
 - Removing duplicated rows that occured due to join
 
-The data table were further loaded into Looker Studio.
+The data table were then imported into Looker Studio for modeling and visualization.
 
 ## Data Modeling
-I used the 'Data Blend' feature on Looker Studio to build my data model. This feature uses a JOIN-like configuration to create a relationship between data tables. I used the account_id as the KEY.
-</br>In addition to the modeling, I created the ***Year*** and ***Month*** measures using the *order_date* column.
+I used the 'Data Blend' feature on Looker Studio to build my data model. This feature uses a JOIN-like configuration to create relationship between data tables. I used the account_id as the KEY.
+</br>In addition to the modeling, I created the ***Year*** and ***Month*** measures(known as 'Calculated field' in Looker Studio) using the *order_date* column.
 
 ## Data Visualization
 To gain better and clear insights of the data, I created a report in Looker Studio
