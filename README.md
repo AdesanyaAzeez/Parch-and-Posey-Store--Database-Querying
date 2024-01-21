@@ -10,7 +10,7 @@ This project is carried out to demonstrate the E-T-L process in analysis. The da
 - Conclusion
 
 ## Database Querying
-I used postgreSQL to interact with the database on *pgadmin* (a tool for open-source postgreSQL database). The data to be used for this analysis spans across multiple tables. There are several tables in the database as seen on the E-R-D (entity relationship diagram) below, and I used JOINS to merge the relevant data into 2 different tables for analysis; **Orders Tables and Accounts Table**
+I used postgreSQL to interact with the database on *pgadmin* (an open-source tool for a postgreSQL database). The data to be used for this analysis spans across multiple tables. There are several tables in the database as seen on the E-R-D (entity relationship diagram) below, and I used JOINS to merge the relevant data into 2 different tables for analysis; **Orders Tables and Accounts Table**
 
 ![parchandposey E-R-D - Copy](https://github.com/AdesanyaAzeez/Parch-and-Posey-Store--Database-Querying/assets/95116501/bbf3663f-1141-4060-b83c-b36b3ab0e0c6)
 
