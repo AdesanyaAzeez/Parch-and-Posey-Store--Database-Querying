@@ -1,5 +1,7 @@
 # Parch and Posey Paper Store Analysis
 Extracting data from a database using PostgreSQL, analyzing and visualizing in Looker Studio.
+</br>[VIEW DASHBOARD](https://lookerstudio.google.com/s/jspIDRFERSE)
+
 ## Project Basis
 This project is carried out to demonstrate the E-T-L process in analysis. The database holds various order information about a paper store, Parch & Posey. The documentation to the project include:
 - Database Querying
